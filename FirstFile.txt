@@ -1,1 +1,2 @@
 This is my 1st repository and I am testing here.
+I adde this directly from github.
