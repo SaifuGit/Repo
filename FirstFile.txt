@@ -1,6 +1,4 @@
 This is my 1st repository and I am testing here.
 I adde this directly from github.
-Added from master branch.
 
-Added from latest 1
-Added from latest 2
+Added from New branch
